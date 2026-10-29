@@ -1,7 +1,8 @@
 # EMTV – the simple solution
 
 Android TV IPTV player for Xtream Codes providers (Live TV, movies, series, multiple playlists).
-This repository only hosts the release APKs. Requires Android TV 9 or newer.
+This repository only hosts the release APKs. Requires Android TV or an Android phone, Android 9 or newer
+(phones: from version 1.2.0, landscape, touch).
 
 ## Install (Android TV)
 
@@ -16,6 +17,13 @@ This repository only hosts the release APKs. Requires Android TV 9 or newer.
 
 4. Downloader downloads the file and asks to install it → **Install** → **Open**.
 5. In EMTV add your playlist (server, username and password or the M3U link from your provider).
+
+## Install (Android phone)
+
+1. Open the address above in the phone's browser; it downloads `emtv.apk`.
+2. Open the downloaded file. The first time, Android asks to allow the browser to install apps — allow it,
+   go back and tap **Install** → **Open**.
+3. In EMTV add your playlist.
 
 ## Updates
 
